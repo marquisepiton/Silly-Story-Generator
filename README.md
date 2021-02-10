@@ -7,3 +7,5 @@ Base on: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/S
 
 ## Skills I will showcase: 
 - Basic Javascript
+
+![](storiesThatSpark.gif)
